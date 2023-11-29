@@ -1,2 +1,39 @@
-# Projeto-banco-de-Dados
-Projeto de banco de dados 6 ciclo FEI
+<div style="allign:center;">
+<img src="https://github.com/fabioschiavi/Jobber/blob/main/images/banner1.png?raw=true" alt="logo"/>
+</div>
+
+## 💼 Projeto banco de dados 💼
+
+Usando a base de dados de exemplo do livro, escolha um dos bancos NoSQL visto em aula (wide-colum storage, document storage ou graph database) e escreva os scripts necessários para salvar os mesmos dados no formato do banco escolhido. Faça as modificações necessárias nas relações dos dados para armazenar da melhor forma possível no banco NoSQL escolhido.
+
+Além do script para a escrita dos dados no banco, faça as mesmas queries da atividade 1 no banco que você escolheu (estas queries devem estar no repositório junto com o script).
+
+## 👔  NOSSO TIME
+Nosso time é composto por 3 pessoas, sendo elas:
+
+<div style="allign:center;">
+<img src="https://github.com/fabioschiavi/Jobber/blob/main/images/timeimg.png?raw=true" alt="logo"/>
+</div>
+
+## 🤔 Mudanças nas tabelas
+
+Ao analizarmos o fluxo do banco original, percebemos que poderiamos realizar aalgumas junções de tabelas, e ao final de tudo consguimos chegar na seguinte junção:
+
+<div style="allign:center;">
+<img src="https://github.com/fabioschiavi/Jobber/blob/main/images/timeimg.png?raw=true" alt="logo"/>
+</div>
+
+## 🤔 Banco escolhido
+
+Com tudo isso em mente, escolhemos o Mongo DB para realizar a conversão, criação das tabelas e a população das mesmas.
+Pra isso utilizamos o Mongo DB atlas  e o  o playground através do mongo DB for VS Code.
+Escolhemos o seguinte banco pois pensamos que realizar está atividade em documento fazia mais sentido para a conversão.
+
+<div style="allign:center;">
+<img src="https://github.com/fabioschiavi/Jobber/blob/main/images/timeimg.png?raw=true" alt="logo"/>
+</div>
+
+
+
+
+
