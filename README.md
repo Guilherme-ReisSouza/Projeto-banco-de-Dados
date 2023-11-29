@@ -1,5 +1,5 @@
 <div style="allign:center;">
-<img src="https://github.com/fabioschiavi/Jobber/blob/main/images/banner1.png?raw=true" alt="logo"/>
+<img src="https://github.com/Guilherme-ReisSouza/Projeto-banco-de-Dados/blob/main/assets/bannerProjeto2.png" alt="logo"/>
 </div>
 
 ## 💼 Projeto banco de dados 💼
@@ -12,7 +12,7 @@ Além do script para a escrita dos dados no banco, faça as mesmas queries da at
 Nosso time é composto por 3 pessoas, sendo elas:
 
 <div style="allign:center;">
-<img src="https://github.com/fabioschiavi/Jobber/blob/main/images/timeimg.png?raw=true" alt="logo"/>
+<img src="https://github.com/Guilherme-ReisSouza/Projeto-banco-de-Dados/blob/main/assets/1.png" alt="logo"/>
 </div>
 
 ## 🤔 Mudanças nas tabelas
@@ -20,7 +20,7 @@ Nosso time é composto por 3 pessoas, sendo elas:
 Ao analizarmos o fluxo do banco original, percebemos que poderiamos realizar aalgumas junções de tabelas, e ao final de tudo consguimos chegar na seguinte junção:
 
 <div style="allign:center;">
-<img src="https://github.com/fabioschiavi/Jobber/blob/main/images/timeimg.png?raw=true" alt="logo"/>
+<img src="https://github.com/Guilherme-ReisSouza/Projeto-banco-de-Dados/blob/main/assets/tabelaNova.png" alt="logo"/>
 </div>
 
 ## 🤔 Banco escolhido
@@ -30,7 +30,7 @@ Pra isso utilizamos o Mongo DB atlas  e o  o playground através do mongo DB for
 Escolhemos o seguinte banco pois pensamos que realizar está atividade em documento fazia mais sentido para a conversão.
 
 <div style="allign:center;">
-<img src="https://github.com/fabioschiavi/Jobber/blob/main/images/timeimg.png?raw=true" alt="logo"/>
+<img src="https://github.com/Guilherme-ReisSouza/Projeto-banco-de-Dados/blob/main/assets/MongoDB.png" alt="logo"/>
 </div>
 
 
