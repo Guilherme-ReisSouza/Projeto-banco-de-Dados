@@ -17,7 +17,7 @@ Nosso time é composto por 3 pessoas, sendo elas:
 
 ## 🤔 Mudanças nas tabelas
 
-Ao analizarmos o fluxo do banco original, percebemos que poderiamos realizar aalgumas junções de tabelas, e ao final de tudo consguimos chegar na seguinte junção:
+Ao analizarmos o fluxo do banco original, percebemos que poderiamos realizar aalgumas junções de tabelas, e ao final de tudo conseguimos chegar na seguinte junção:
 
 <div style="allign:center;">
 <img src="https://github.com/Guilherme-ReisSouza/Projeto-banco-de-Dados/blob/main/assets/tabelaNova.png" alt="logo"/>
