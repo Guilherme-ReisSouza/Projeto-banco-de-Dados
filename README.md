@@ -23,6 +23,8 @@ Ao analizarmos o fluxo do banco original, percebemos que poderiamos realizar aal
 <img src="https://github.com/Guilherme-ReisSouza/Projeto-banco-de-Dados/blob/main/assets/tabelaNova.png" alt="logo"/>
 </div>
 
+As junções das tabelas  section e classroom foram juntadas com as informações building e room_number, virando uma tabela só com tudo do section e a adição do capacity. Já na junção do teaches takes as tabelas continham os mesmos valores com exceção da grade. Com isso fizemos 2 ids, ID_Prof e ID_student e o resto se manteve o mesmo em uma tabela só. 
+
 ## 🤔 Banco escolhido
 
 Com tudo isso em mente, escolhemos o Mongo DB para realizar a conversão, criação das tabelas e a população das mesmas.
